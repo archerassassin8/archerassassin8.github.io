@@ -1,0 +1,13 @@
+{
+"companyName": "FeudalWorld",
+"productName": "O.O.F",
+"dataUrl": "OOF.data.unityweb",
+"asmCodeUrl": "OOF.asm.code.unityweb",
+"asmMemoryUrl": "OOF.asm.memory.unityweb",
+"asmFrameworkUrl": "OOF.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
