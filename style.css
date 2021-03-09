@@ -1,0 +1,81 @@
+body{
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+    height: 900px;
+}
+
+#wrapper{
+    background-color: darkgrey;
+    height:100%;
+    width:100%;
+
+}
+
+#top{
+    display:flex;
+    background-color: gray;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+
+#top img{
+    display:flex;
+    height: 150px;
+    width: 150px;
+
+}
+
+#gameimg img{
+    display:flex;
+    height: 400px;
+    width: 300px;
+}
+
+#game1, #game2, #game3{
+    float:left;
+    background-color: grey;
+    margin: 10px;
+
+
+}
+
+
+#game1desc, #game2desc, #game3desc{
+    float:left;
+    background-color: grey;
+    margin: 10px;
+    height: 200px;
+    width: 290px;
+    color: white;
+    padding: 5px;
+}
+
+#game1desc p, #game2desc p, #game3desc p{
+height: 130px;
+}
+
+h1{
+    color: white;
+
+    margin-right: 20px;
+    font-family: "Impact", Times, serif;
+}
+
+span{
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+.a{
+    background-color: darkgrey;
+    width:290px;
+    height: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+
+#footer{
+    text-align:center;
+}
