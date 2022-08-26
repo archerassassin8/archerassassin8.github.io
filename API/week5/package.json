@@ -13,7 +13,7 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "mongo": "^0.1.0",
-    "mongoose": "^6.2.3",
+    "mongoose": "^6.4.6",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15"
   },
